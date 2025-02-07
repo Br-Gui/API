@@ -1,9 +1,9 @@
 
-# Login with GO
+# API Whitc GO
 
 Esta aplicação é um script simples para fazer teste de api
 
-## Excecução
+## Como executar
 
 Instalar Dependências:
 ```sh
